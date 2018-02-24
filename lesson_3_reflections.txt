@@ -7,3 +7,5 @@ when whould you want to create a remote repository rather than keeping all your 
 1.fork是创建不能通过push/pull等影响原版本的副本
 2.克隆创建的是可以通过push/pull等影响原版本的副本
 3.branch是区别与master的修改分支
+
+拥有远程分支的上次已知状态的副本（存储在本地）有何好处？
