@@ -2,3 +2,8 @@ when whould you want to create a remote repository rather than keeping all your 
 
 为何你希望始终手动地拉取更改，而不是让 Git 自动与你的远程版本库保持同步？
 1.希望在做好一个完整功能或完善一个bug的情况下，再手动推送
+
+说明Fork、克隆和分支之间的不同。何时使用某种功能而不是另一种？
+1.fork是创建不能通过push/pull等影响原版本的副本
+2.克隆创建的是可以通过push/pull等影响原版本的副本
+3.branch是区别与master的修改分支
