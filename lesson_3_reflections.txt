@@ -11,3 +11,6 @@ when whould you want to create a remote repository rather than keeping all your 
 拥有远程分支的上次已知状态的副本（存储在本地）有何好处？
 
 如何在不使用 Git 或 GitHub 的情况下开展协同？哪种做法更容易？哪种做法更困难？
+
+何时你会想在独立的分支中而不是直接在 master 中进行更改？两种方法各有何好处？
+1.开发实验功能
